@@ -1,5 +1,7 @@
 # FreeBSD installation on OVH VPS
 
+Source: https://gist.github.com/c0m4r/0401f6b53d35b0c34a4f51eef68af377#file-freebsd_ovh_vps-md
+
 This guide explains how to install the [FreeBSD](https://www.freebsd.org/) on OVH VPS. This might also work for other VPS providers with the proper rescue system in place.
 
 Inspired by https://www.klajnszmit.net/unix-bsd-linux/openbsd-on-ovh-vps
