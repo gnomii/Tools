@@ -1,6 +1,6 @@
 # FreeBSD on Hetzner Cloud VPS
 
-Source : https://gist.github.com/c0m4r/142a0480de4258d5da94ce3a2380e8bb
+Source: https://gist.github.com/c0m4r/142a0480de4258d5da94ce3a2380e8bb
 
 This guide explains how to install the [FreeBSD](https://www.freebsd.org/) on Hetzner Cloud VPS. This might also work for other VPS providers with the proper rescue system in place.
 
